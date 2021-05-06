@@ -13,15 +13,52 @@
 ### Body Characteristic of The Neandertals
 * shot and stocky
 * An adaptation for the cold condition of Ice Age Europe
-* Differences in **resource exploitation strategies** give  modern humans an anatomically advantage over Neandertals
+* Differences in **resource exploitation strategies** give  anatomically modern humans an advantage over Neandertals
 #### 大腦比較
 * Neandertals brains were as large as or larger than modern people's brains
 * But they are enlarged in a slightly different way
 * Neandertals：**elongate**, larger **occipital area(枕葉區)**
 * mordern human：**globular**, larger **middle temporal region(顳葉區)**
 * This difference appears in the first year after birth
----
 * much stronger than extant humans
 * Their front teeth showed very heavy wear, sometimes down to the roots
-* stome toolmakers, producing tools known as the **Mousterian tool industry**
+---
+* Stone toolmakers, producing tools known as the **Mousterian tool industry**
 * circular constructions of stalagmites -- the oldest constructions made by numans
+![](https://i.imgur.com/1cN2Ux3.jpg)
+* The capacity for complex speech remains controversial
+* The first humans known to **bury their dead** [發現大量葬禮儀式]
+* Burials(葬禮) at **Shanidar Cave in Iraq**, a variety of medicinal plants were found [花花草草為葬禮的擺飾]
+* Molecular analysis has shown that the Neandertal diet consisted of pine cones, poplar(白楊), moss, wild mouflon(野生綿羊), and woolly rhinoceros(披毛犀)
+* Hunting large mammals with weapons that required close contact with their prey [沒有遠距離武器，只能打近戰]
+* Many skeletal remains of Neandertals show evidence of **serious injury**
+* Despite the high incidence of injuries, **20% of Neandertals were more than 50 years old**
+---
+#### Competition
+* There is much debate about the role of *Homo sapiens* in the disappearance of the other species of humans
+* Modern *Homo sapiens* reached Durope and Asia between 60 and 40 ka
+* Neandertals and the populations of *Homo erectus(直立人)* vanished between 40 and 30 ka
+* The climate was changing rapidly between about 45 and 30 ka
+* The resource exploitation strategies of modern humans gave them an advantage over Neandertals
+* Neandertals **remain static while the environment changed**：the diets of Neandertals changed greatly over thousands of years
+* Anatomically modern humans **changed their food-gathering methods**：keep their diets **relatively stable**
+* Difference in the levels of material culture could have driven Neandertals to extinction
+* Ex. Neandertals：short-range knives and stabbing spears
+* Ex. Anatomically modern humans：have throwing spears and bows and arrows [遠程攻擊武器]
+* These sudies suggest that modern humans were better adapted to the new environmental conditions
+
+## 丹尼索瓦人(The Denisovans)
+* Fragmentary remains of hominins, lived 50 ~ 100ka
+* found in Dnisova Cave in the Altai Mountains of southern Siberia
+* only three isolated teeth and a finger bone
+* The Denisovan molars(臼齒) are **very large**, and **lack traits of Neandertal and human molars** [缺少Neandertal和現代人種的特徵]
+* Sima de los Huesos hominins, 430ka (Middle Pleistocene(更新世)) [在Atapuerca Mountains, Spain]
+* Recent genetic analyses show that the Sima hominins were more closely related to Neandertals than to Denisovans
+* Denisovan lineage split from the Neandertal lineage about 430ka
+* They are genetically distinct from the Neandertals [based on 分子生物學分析]
+* However, they were contemporaneous with both Neandertals and modern humans
+* A preliminary analysis of the Denisova Cave：occupied by Denisovans 50ka, by Neandertals 45ka, then by modern humans
+* two crania from Lingjing, China [？問老師]
+
+## Origins of modern humans
+[Levant region](/QS-d6rkzQhOo66Nq9a3kOA)
