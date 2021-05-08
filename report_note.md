@@ -74,4 +74,13 @@
 * humans have only about **one-tenth the genetic variation** of chimapanzees
 * human populations were once very small, passing through a **genetic bottleneck** [為什麼要在這裡特別提？]
 * Recent findings of human reamins in Morocco indicate that the earliest modern* Homo sapiens* appeared there about 300ka [那個時候就已經分布在整個非洲大陸]
-* 
+* [Morden humans spread](/TsJ1IyJmT_uFR1AlXMqQ3A)
+
+## What happend to the humans who were already there
+[現代人種去的地方早就已經有其他人種了，他們為什麼現今都不存在了？]
+* Replacement hypothesis：modern humans **completely** replaced the populations of other species of Homo
+* The hypothesis has been modified by genetic studies that reveal **low levels of interbreeding** between modern humans and local population of species of Homo
+* 1~3% of the nuclear DNA of extant Eurasians(歐亞混血) came from Neandertals(尼安德塔人)
+* Modern humans interbred with Neandertals in the Middle East between 80 and 50ka：Neandertals DNA is found in east Asian populations
+* Subgroup of modern Homo sapiens moved eastward into Asia, where they **interbred with Dnisovans**, and the descendants are found in native populations of Melanesia(美來尼西亞), Australia and southern Asia：Melanesian and Australian populations carry up to 0.5% of Denisovan DNA
+* **90% of the genome** of human populations outside Africa does represent a recent African origin：replacement with **hybridization**
