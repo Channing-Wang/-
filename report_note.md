@@ -62,3 +62,16 @@
 
 ## Origins of modern humans
 [Levant region](/QS-d6rkzQhOo66Nq9a3kOA)
+* African origin of *Homno sapiens* is supported both by the **fossil record** and by **genetic studies of modern humans**
+* **mitochondrial DNA(粒線體DNA)** and **Y chromosome(Y染色體)**
+* Mitochondrial DNA is ingerited **only from the mother** [在cell質中，16000組base]
+* trace to a woman who lived in Africa about 170ka, called **African Eve**
+* Y chromosome is passed **only from father to son** [60 million組base，較難分析，其中2600組中就知道]
+* trace to a man who lived in Africa 59ka, called **African Adam**
+* The difference between the estimates(170ka vs 59ka) results from **uncertainty about the rates of mutation**
+* The common ancestor of modern humans lived in Africa
+* Reinforced by other genetic information：there is **more variation** in the human genome in Africa [非洲有更多的基因組變化]
+* humans have only about **one-tenth the genetic variation** of chimapanzees
+* human populations were once very small, passing through a **genetic bottleneck** [為什麼要在這裡特別提？]
+* Recent findings of human reamins in Morocco indicate that the earliest modern* Homo sapiens* appeared there about 300ka [那個時候就已經分布在整個非洲大陸]
+* 
