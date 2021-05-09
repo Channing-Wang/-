@@ -6,7 +6,7 @@
 * Neandertal remains have been recovered from a broad geographic range in western Eurasia
 * The oldest record of a Neandertal comes from the site of Krapina(克拉皮納), in Croatia(克羅埃西亞), dated to 130 ka
 ---
-* DNA analysese suggest that Neandertals were not directly ancestral to *H.sapiens*
+* DNA analyses suggest that Neandertals were not directly ancestral to *H.sapiens*
 * Instead, the two lineages **diverged from *Homo heidelbergensis(海德堡人)* about 588 ka**
 * Neandertals are often popularly displayed as primitive cavemen
 ---
@@ -23,7 +23,7 @@
 * much stronger than extant humans
 * Their front teeth showed very heavy wear, sometimes down to the roots
 ---
-* Stone toolmakers, producing tools known as the **Mousterian tool industry**
+* Stone toolmakers, producing tools known as the [**Mousterian tool industry**](/vb7ITdZyQLuKRVp4jt6cHg)
 * circular constructions of stalagmites -- the oldest constructions made by numans
 ![](https://i.imgur.com/1cN2Ux3.jpg)
 * The capacity for complex speech remains controversial
@@ -64,7 +64,7 @@
 [Levant region](/QS-d6rkzQhOo66Nq9a3kOA)
 * African origin of *Homno sapiens* is supported both by the **fossil record** and by **genetic studies of modern humans**
 * **mitochondrial DNA(粒線體DNA)** and **Y chromosome(Y染色體)**
-* Mitochondrial DNA is ingerited **only from the mother** [在cell質中，16000組base]
+* Mitochondrial DNA is inherited **only from the mother** [在cell質中，16000組base]
 * trace to a woman who lived in Africa about 170ka, called **African Eve**
 * Y chromosome is passed **only from father to son** [60 million組base，較難分析，其中2600組中就知道]
 * trace to a man who lived in Africa 59ka, called **African Adam**
@@ -73,10 +73,10 @@
 * Reinforced by other genetic information：there is **more variation** in the human genome in Africa [非洲有更多的基因組變化]
 * humans have only about **one-tenth the genetic variation** of chimapanzees
 * human populations were once very small, passing through a **genetic bottleneck** [為什麼要在這裡特別提？]
-* Recent findings of human reamins in Morocco indicate that the earliest modern* Homo sapiens* appeared there about 300ka [那個時候就已經分布在整個非洲大陸]
+* Recent findings of human reamins in Morocco indicate that the earliest modern *Homo sapiens* appeared there about 300ka [那個時候就已經分布在整個非洲大陸]
 * [Morden humans spread](/TsJ1IyJmT_uFR1AlXMqQ3A)
 
-## What happend to the humans who were already there
+## What happened to the humans who were already there
 [現代人種去的地方早就已經有其他人種了，他們為什麼現今都不存在了？]
 * Replacement hypothesis：modern humans **completely** replaced the populations of other species of Homo
 * The hypothesis has been modified by genetic studies that reveal **low levels of interbreeding** between modern humans and local population of species of Homo
